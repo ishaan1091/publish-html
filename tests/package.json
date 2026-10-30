@@ -1,0 +1,6 @@
+{
+  "name": "publish-html-browser-checks",
+  "private": true,
+  "scripts": {"test": "node browser.cjs"},
+  "devDependencies": {"playwright": "1.64.1"}
+}

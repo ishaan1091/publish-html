@@ -13,6 +13,8 @@ Use the supplied analysis, narrative, data, or HTML as input. Preserve its facts
 
 Read [design guidance](references/design.md) when authoring. Choose a coherent visual direction and layout for the material, not a mandatory dashboard template. Use plain HTML/CSS/JS with inline code or relative assets. Responsive typography, spacing, accessible controls, readable charts, and purposeful interactions are part of the deliverable. Preserve supplied citations and methods; label illustrative data.
 
+Before drafting, identify the reader's hardest tasks and choose a small, content-dependent set of visual explanations. Use prose, a static diagram/table, or interaction according to what best clarifies the supplied material; this is a judgment, not a widget quota. Briefly note the choices in working notes. See [content-to-visual guidance](references/design.md).
+
 Optional starters and verification helpers:
 
 ```sh
